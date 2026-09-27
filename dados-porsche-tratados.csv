@@ -1,0 +1,101 @@
+id_venda,modelo,ano_modelo,preco_usd,quilometragem,forma_pagamento,cidade,estado,situacao_entrega,familia
+6,718 Cayman,2022,79500.00,9800,Cart?o de cr?dito,Boston,MA,Entregue,718
+7,911 Turbo S,2024,235000.00,1200,Transfer?ncia eletr?nica,Seattle,WA,Entregue,911
+8,Cayenne Coupe,2023,112750.00,6400,Financiamento,Austin,TX,Em andamento,Cayenne
+9,Macan S,2021,68900.00,28,Dinheiro,Denver,CO,Pendente,Macan
+10,Taycan 4S,2024,121000.00,0,Transfer?ncia banc?ria,Los Angeles,CA,Entregue,Taycan
+11,Panamera 4,2023,104500.00,14500,Cart?o de cr?dito,Miami,FL,Cancelada,Panamera
+12,911 Carrera S,2020,96300.00,41000,Leasing,New York,NY,Entregue,911
+13,Cayenne E-Hybrid,2022,89750.00,11744,Transfer?ncia eletr?nica,San Diego,CA,Pendente,Cayenne
+14,718 Boxster,2021,73500.00,22300,Cart?o de d?bito,Chicago,IL,Em andamento,718
+15,Macan GTS,2024,95000.00,3500,Financiamento,Phoenix,AZ,Em andamento,Macan
+16,Taycan Turbo,2023,153200.50,11,Pagamento ACH,Dallas,TX,Entregue,Taycan
+17,911 GT3,2024,241000.00,750,Transfer?ncia eletr?nica,Las Vegas,NV,Pendente,911
+18,Panamera Turbo S,2022,132000.00,19250,Dinheiro,San Jose,CA,Entregue,Panamera
+19,Cayenne Turbo GT,2024,188000.00,2100,Criptomoeda,Houston,TX,Em andamento,Cayenne
+20,911 Carrera Cabriolet,2023,127800.00,12000,Cart?o de cr?dito,Atlanta,GA,Entregue,911
+21,Macan,2021,58900.00,33700,Transfer?ncia banc?ria,Orlando,FL,Pendente,Macan
+22,718 Spyder RS,2024,164000.00,900,Financiamento,Portland,OR,Em andamento,718
+23,Taycan Cross Turismo,2023,118500.00,7800,Transfer?ncia eletr?nica,Charlotte,NC,Entregue,Taycan
+24,Cayenne S,2022,91300.00,16000,Cart?o de cr?dito,Nashville,TN,Pendente,Cayenne
+25,911 Targa 4S,2024,158750.00,2500,Leasing,Minneapolis,MN,Entregue,911
+26,Panamera,2020,72000.00,49000,Transfer?ncia banc?ria,Philadelphia,PA,Cancelada,Panamera
+27,Macan Electric,2025,86500.00,0,Transfer?ncia eletr?nica,San Antonio,TX,Entregue,Macan
+28,911 Dakar,2024,270000.00,1050,Dinheiro,Salt Lake City,UT,Em andamento,911
+29,Taycan GTS,2023,139000.00,6250,Financiamento,Raleigh,NC,Em andamento,Taycan
+30,Cayenne,2021,76800.00,38400,Cart?o de cr?dito,Detroit,MI,Entregue,Cayenne
+31,718 Cayman GT4 RS,2024,173600.00,400,Transfer?ncia eletr?nica,Columbus,OH,Pendente,718
+32,911 Carrera GTS,2022,119900.00,13600,Dinheiro,Indianapolis,IN,Entregue,911
+33,Panamera 4 E-Hybrid,2023,109250.00,8900,Leasing,Fort Worth,TX,Em andamento,Panamera
+34,Macan T,2022,82000.00,21750,Transfer?ncia eletr?nica,Jacksonville,FL,Entregue,Macan
+35,Taycan Turbo S,2025,214000.00,0,Criptomoeda,San Diego,CA,Pendente,Taycan
+36,911 Carrera,2024,124500.00,4800,Cart?o de cr?dito,Tampa,FL,Entregue,911
+37,Cayenne S,2023,98200.00,12200,Transfer?ncia banc?ria,Sacramento,CA,Pendente,Cayenne
+38,Macan,2022,67500.00,24100,Financiamento,Cleveland,OH,Entregue,Macan
+39,Taycan,2025,116900.00,0,Transfer?ncia eletr?nica,Milwaukee,WI,Em andamento,Taycan
+40,Panamera 4S,2024,112000.00,10,Dinheiro,Kansas City,MO,Entregue,Panamera
+41,718 Boxster,2021,74000.00,31000,Cart?o de d?bito,Omaha,NE,Cancelada,718
+42,911 Turbo,2024,198300.00,2400,Transfer?ncia eletr?nica,Albuquerque,NM,Em andamento,911
+43,Cayenne Coupe,2023,103750.00,6773,Transfer?ncia eletr?nica,Tucson,AZ,Pendente,Cayenne
+44,Macan GTS,2024,93600.00,5800,Financiamento,Fresno,CA,Em andamento,Macan
+45,Taycan 4S,2025,129000.00,0,Pagamento ACH,Virginia Beach,VA,Em andamento,Taycan
+46,Panamera Turbo,2022,136000.00,18400,Cart?o de cr?dito,Colorado Springs,CO,Entregue,Panamera
+47,911 GT3 RS,2024,286500.00,700,Transfer?ncia eletr?nica,Arlington,TX,Pendente,911
+48,Cayenne E-Hybrid,2023,92800.00,15000,Leasing,Bakersfield,CA,Entregue,Cayenne
+49,Macan T,2022,72400.00,19750,Dinheiro,Mesa,AZ,Em andamento,Macan
+50,Taycan Turbo,2025,158500.00,3200,Criptomoeda,Atlanta,GA,Entregue,Taycan
+51,718 Cayman,2021,69900.00,27600,Transfer?ncia banc?ria,Long Beach,CA,Pendente,718
+52,911 Targa 4,2024,141250.00,2100,Financiamento,Oakland,CA,Em andamento,911
+53,Panamera,2020,71500.00,52000,Transfer?ncia eletr?nica,Tulsa,OK,Entregue,Panamera
+54,Cayenne Turbo,2023,146800.00,11300,Cart?o de cr?dito,Wichita,KS,Pendente,Cayenne
+55,Macan Electric,2025,89700.00,0,Leasing,New Orleans,LA,Entregue,Macan
+56,911 Carrera S,2022,104600.00,15900,Transfer?ncia banc?ria,Honolulu,HI,Cancelada,911
+57,Taycan GTS,2024,142000.00,6600,Transfer?ncia eletr?nica,Anaheim,CA,Entregue,Taycan
+58,Cayenne,2021,78400.00,40250,Dinheiro,Henderson,NV,Pendente,Cayenne
+59,718 Spyder RS,2025,169000.00,850,Financiamento,Lexington,KY,Em andamento,718
+60,911 Dakar,2024,268900.00,1400,Cart?o de cr?dito,Riverside,CA,Entregue,911
+61,Panamera 4,2023,101300.00,12700,Transfer?ncia eletr?nica,Corpus Christi,TX,Pendente,Panamera
+62,Macan S,2021,66750.00,29800,Dinheiro,St. Louis,MO,Entregue,Macan
+63,Taycan Cross Turismo,2024,127900.00,7500,Leasing,Pittsburgh,PA,Em andamento,Taycan
+64,Cayenne Turbo GT,2025,200000.00,1950,Transfer?ncia eletr?nica,Cincinnati,OH,Entregue,Cayenne
+65,911 Carrera Cabriolet,2023,132000.00,8800,Criptomoeda,Anchorage,AK,Pendente,911
+66,718 Cayman GT4 RS,2024,176400.00,600,Cart?o de cr?dito,Plano,TX,Entregue,718
+67,Panamera 4 E-Hybrid,2022,108500.00,16200,Transfer?ncia banc?ria,Newark,NJ,Cancelada,Panamera
+68,Macan,2021,59000.00,36000,Financiamento,Greensboro,NC,Em andamento,Macan
+69,Taycan Turbo S,2025,218000.00,0,Transfer?ncia eletr?nica,Lincoln,NE,Pendente,Taycan
+70,Cayenne S,2024,99950.00,5300,Cart?o de d?bito,Jersey City,NJ,Entregue,Cayenne
+71,911 Carrera GTS,2024,121750.00,5872,Cart?o de cr?dito,Chandler,AZ,Entregue,911
+72,718 Boxster GTS,2023,91500.00,13300,Leasing,Reno,NV,Em andamento,718
+73,Panamera Turbo S,2022,134000.00,20100,Transfer?ncia eletr?nica,Buffalo,NY,Em andamento,Panamera
+74,Macan GTS,2024,96800.00,0,Pagamento ACH,Durham,NC,Entregue,Macan
+75,Taycan 4S,2025,131600.00,2900,Transfer?ncia eletr?nica,Laredo,TX,Pendente,Taycan
+76,Cayenne E-Hybrid,2023,94300.00,13100,Dinheiro,Madison,WI,Entregue,Cayenne
+77,911 Turbo S,2025,242000.00,1100,Criptomoeda,Lubbock,TX,Em andamento,911
+78,718 Cayman S,2022,82750.00,22500,Cart?o de cr?dito,Toledo,OH,Cancelada,718
+79,Macan Electric,2026,91300.00,0,Transfer?ncia eletr?nica,Irvine,CA,Entregue,Macan
+80,Panamera,2021,79900.00,44800,Financiamento,Garland,TX,Pendente,Panamera
+81,Cayenne Coupe,2024,111000.00,6700,Transfer?ncia banc?ria,Irving,TX,Em andamento,Cayenne
+82,911 Targa 4S,2023,156500.00,4200,Dinheiro,Chesapeake,VA,Entregue,911
+83,Taycan,2025,119900.00,1250,Leasing,Scottsdale,AZ,Pendente,Taycan
+84,Macan T,2022,73200.00,18600,Transfer?ncia eletr?nica,Norfolk,VA,Entregue,Macan
+85,911 GT3,2024,224000.00,3000,Transfer?ncia eletr?nica,Boise,ID,Em andamento,911
+86,911 Carrera,2024,126900.00,7200,Cart?o de cr?dito,Orlando,FL,Entregue,911
+87,Cayenne,2023,84500.00,21400,Transfer?ncia banc?ria,San Jose,CA,Pendente,Cayenne
+88,Macan S,2022,69800.00,26300,Financiamento,Tampa,FL,Entregue,Macan
+89,Taycan 4S,2025,132700.00,0,Transfer?ncia eletr?nica,Denver,CO,Em andamento,Taycan
+90,Panamera,2021,81000.00,42,Dinheiro,Austin,TX,Entregue,Panamera
+91,718 Cayman,2023,78900.00,17500,Cart?o de d?bito,Seattle,WA,Cancelada,718
+92,911 Turbo S,2026,249300.00,900,Transfer?ncia eletr?nica,Boston,MA,Em andamento,911
+93,Cayenne Coupe,2024,108750.00,5530,Transfer?ncia eletr?nica,Phoenix,AZ,Pendente,Cayenne
+94,Macan Electric,2026,92600.00,0,Financiamento,Chicago,IL,Em andamento,Macan
+95,Taycan Turbo,2025,164000.00,0,Pagamento ACH,Dallas,TX,Em andamento,Taycan
+96,Panamera 4S,2024,119000.00,13400,Cart?o de cr?dito,San Francisco,CA,Entregue,Panamera
+97,911 GT3,2026,232500.00,1700,Transfer?ncia eletr?nica,Las Vegas,NV,Pendente,911
+98,Cayenne E-Hybrid,2023,96800.00,14000,Leasing,Charlotte,NC,Entregue,Cayenne
+99,Macan T,2022,74400.00,20750,Dinheiro,Mesa,AZ,Em andamento,Macan
+100,Taycan GTS,2025,148500.00,5200,Criptomoeda,Atlanta,GA,Entregue,Taycan
+101,718 Boxster,2021,71900.00,29600,Transfer?ncia banc?ria,Long Beach,CA,Pendente,718
+102,911 Targa 4,2024,143250.00,3100,Financiamento,Oakland,CA,Em andamento,911
+103,Panamera Turbo,2020,137500.00,48000,Transfer?ncia eletr?nica,Tulsa,OK,Entregue,Panamera
+104,Cayenne Turbo GT,2025,204800.00,3300,Cart?o de cr?dito,Wichita,KS,Pendente,Cayenne
+105,911 Dakar,2024,271700.00,1050,Leasing,New Orleans,LA,Entregue,911
